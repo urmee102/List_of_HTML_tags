@@ -1,0 +1,33 @@
+body{
+	margin:0;
+	padding:0;
+	background:green;
+	height:auto;
+}
+img{
+	max-width:100%;
+}
+table{
+     width: 100%;
+    font-size: 20px;
+    text-align: center;
+	color:white;
+}
+tr{
+	
+}
+td{
+    border: 1px solid;
+    border-color: #08141e;
+    font-style: normal;
+}
+h1{
+	color: white;
+	font-size: 40px;
+	margin-bottom: 12px;
+	margin-top: 12px;
+	text-align: center;
+}
+
+
+}
